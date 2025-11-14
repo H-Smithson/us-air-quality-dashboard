@@ -50,6 +50,16 @@ Validation: Generate correlation matrices and heatmaps.
 Pollution patterns differ substantially by state or region.
 Validation: Group pollutant measurements by state and compare distributions.
 
+## Project Management
+
+Tasks were divided up amongst the team.
+
+A project board was created with 'issues' to assist the management of delivery.
+
+A team group chat was used to keep on top of issues (see above) and agree solutions.
+
+Progress was monitored and alternative solutions identified where hardware and software constraints caused delays.
+
 ## Dashboard design
 
 The Power BI dashboard was created as a stand-alone tool for those with an interest in air quality. It's designed to enable the user to select specific US states and/or years to see how the 4 air quality indicators measured during that time period, to be able to make informed decisions regarding which gases/seasons to target any measures towards.
